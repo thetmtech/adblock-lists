@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ||youtube.com
 ||777.com
-||google^tbm=isch
-[Adblock Plus 2.0]
+||google.com^tbm=isch
 ||mzdevon.com
 ||myxxxbutt.com
 ||nacktbilder.bz
